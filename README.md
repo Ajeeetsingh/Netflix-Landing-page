@@ -36,8 +36,6 @@ This is a sample landing page inspired by Netflix's homepage. It showcases moder
 ### **Trailers**
 ![Top Picks](./Preview/Trailers.png)	
 
-> **Note**: Ensure that all images are saved in the folder `assets/images/` within your project directory, and that the file paths in the Markdown match their actual locations.
-
 ## How to Run
 To view the landing page locally:
 1. Clone this repository to your computer:
